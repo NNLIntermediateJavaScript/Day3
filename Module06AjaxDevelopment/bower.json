@@ -1,0 +1,13 @@
+{
+  "name": "Module_06_-_Ajax_Development",
+  "version": "1.0.0",
+  "main": "path/to/main.css",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jQuery": "3.2.1"
+  }
+}
